@@ -1,10 +1,18 @@
 {
   "dependencies": {
     "com.gameworkstore.googleprotobufunity": {
-      "version": "file:C:/Users/oharan/Downloads/google-protobuf-unity-upm/google-protobuf-unity-upm",
+      "version": "https://github.com/GameWorkstore/google-protobuf-unity.git#3.15.2012",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "655ece78bda22e0aa28593d8dddccbca6de719bb"
+    },
+    "com.github-glitchenzo.nugetforunity": {
+      "version": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ab764d2b62adc4a4fa2dd414bb57e5e5c6edd37d"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
