@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "com.gameworkstore.googleprotobufunity": "file:C:/Users/oharan/Downloads/google-protobuf-unity-upm/google-protobuf-unity-upm",
+    "com.gameworkstore.googleprotobufunity": "https://github.com/GameWorkstore/google-protobuf-unity.git#3.15.2012",
+    "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
